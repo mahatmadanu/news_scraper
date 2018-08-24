@@ -1,1 +1,1 @@
-# news_scraper
+Simple news scraper with beautifull soap
